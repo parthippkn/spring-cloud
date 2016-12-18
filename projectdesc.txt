@@ -1,0 +1,6 @@
+The project details are  :
+
+1. businessservices
+
+2. confiservices
+
